@@ -1,0 +1,7 @@
+Abigaiu Porto Beauty — catálogo web
+
+Abra index.html no navegador. O catálogo é editável em script.js (dados, preços e contatos); style.css controla o visual.
+
+As fotos atuais são provisórias e estão na pasta fotos/. Troque os arquivos perfil.jpg, cilios.jpg, unhas.jpg, sobrancelhas.jpg e local.jpg por suas próprias fotos mantendo os mesmos nomes. As fotos são reutilizadas automaticamente nos serviços correspondentes.
+
+Para personalizar valores/endereço/telefone/WhatsApp/Instagram, procure os objetos PERFIL, SECOES e CONTATO em script.js.
